@@ -4,9 +4,12 @@ Make some samples.
 Passed on Unity3D 5.4.2f2  
 
 ## Reference (Directory - Library with Address)
-* ProtoBase - [SuperSocket.ProtoBase v1.7.0.15](https://github.com/kerryjiang/SuperSocket.ProtoBase)	`Commit:5fcc925ca72b67a528ad1fd72611f9c37effb214`
-* ClientEngine - [SuperSocket.ClientEngine v0.8.10](https://github.com/kerryjiang/SuperSocket.ClientEngine)	`Commit: d16adc1779c079589346363f9ce596ca973e706c`
-* crypto - [The Bouncy Castle C# Cryptographic ](https://github.com/bcgit/bc-csharp) `Commit: 44c1a7c05913560362d3d241dbd0bc58a5b6dbac`
+* ProtoBase - [SuperSocket.ProtoBase v1.7.0.15](https://github.com/kerryjiang/SuperSocket.ProtoBase)  
+`Commit:5fcc925ca72b67a528ad1fd72611f9c37effb214`
+* ClientEngine - [SuperSocket.ClientEngine v0.8.10](https://github.com/kerryjiang/SuperSocket.ClientEngine)  
+`Commit: d16adc1779c079589346363f9ce596ca973e706c`
+* crypto - [The Bouncy Castle C# Cryptographic ](https://github.com/bcgit/bc-csharp)  
+`Commit: 44c1a7c05913560362d3d241dbd0bc58a5b6dbac`
 
 ## Usage
 * Checkout the repository.
